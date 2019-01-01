@@ -2,4 +2,6 @@
 
 Simple skill facts made for Amazon Alexa.
 
->facts are based on Alexa Space Fact.
+>skill is based on Alexa Space Fact.
+
+functions are hosted on Amazon web services's Lambda.
